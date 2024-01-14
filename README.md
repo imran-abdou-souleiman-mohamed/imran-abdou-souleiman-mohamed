@@ -1,16 +1,20 @@
-### Hi there 👋
+## Bienvenue sur mon profil! 👋
 
-<!--
-**imran-abdou-souleiman-mohamed/imran-abdou-souleiman-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Salut, je suis Jai, un passionné de 23 ans à la recherche d'une alternance en développement web.
 
-Here are some ideas to get you started:
+### 🚀 Compétences
+- HTML, CSS, Python
+- Frameworks : React
+- Outils : Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Objectif
+Je suis actuellement à la recherche d'une opportunité d'alternance pour développer mes compétences et contribuer à des projets innovants.
+
+### 🌱 Actuellement
+Je travaille sur l'amélioration de mes compétences en développement full-stack et l'exploration de nouvelles technologies.
+
+### 📫 Contact
+Si vous avez des conseils ou des opportunités à discuter, n'hésitez pas à me contacter!
+
+📧 [E-mail](imran.abdou-souleiman-mohamed@laplateforme.io)
+💼 [LinkedIn]([https://www.linkedin.com/in/votre-profil-linkedin/](https://www.linkedin.com/in/imran-abdou-souleiman-mohamed-536300226/)https://www.linkedin.com/in/imran-abdou-souleiman-mohamed-536300226/)

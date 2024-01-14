@@ -16,4 +16,5 @@ Je travaille sur l'amélioration de mes compétences en développement full-stac
 ### 📫 Contact
 Si vous avez des conseils ou des opportunités à discuter, n'hésitez pas à me contacter!
 
-📧 [E-mail imran.abdou-souleiman-mohamed@laplateforme.io]💼 [LinkedIn https://www.linkedin.com/in/imran-abdou-souleiman-mohamed-536300226/]
+📧 [E-mail imran.abdou-souleiman-mohamed@laplateforme.io]
+💼 [LinkedIn https://www.linkedin.com/in/imran-abdou-souleiman-mohamed-536300226/]

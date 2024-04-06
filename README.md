@@ -1,9 +1,9 @@
 ## Bienvenue sur mon profil! 👋
 
-Salut, je suis un passionné de 24 ans à la recherche d'une alternance en développement web.
+Salut, je suis un passionné de 23 ans à la recherche d'une alternance en développement web.
 
 ### 🚀 Compétences
-- HTML, CSS, Python
+- HTML, CSS, Python, JavaScript
 - Frameworks : React
 - Outils : Git
 
